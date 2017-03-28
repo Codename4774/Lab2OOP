@@ -1,0 +1,18 @@
+c:\users\user\documents\visual studio 2013\Projects\ShapesApp\ShapesApp\bin\Debug\ShapesApp.exe.config
+c:\users\user\documents\visual studio 2013\Projects\ShapesApp\ShapesApp\obj\Debug\ShapesApp.ShapesForm.resources
+c:\users\user\documents\visual studio 2013\Projects\ShapesApp\ShapesApp\obj\Debug\ShapesApp.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\ShapesApp\ShapesApp\obj\Debug\ShapesApp.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\ShapesApp\ShapesApp\bin\Debug\ShapesApp.exe
+c:\users\user\documents\visual studio 2013\Projects\ShapesApp\ShapesApp\bin\Debug\ShapesApp.pdb
+c:\users\user\documents\visual studio 2013\Projects\ShapesApp\ShapesApp\obj\Debug\ShapesApp.exe
+c:\users\user\documents\visual studio 2013\Projects\ShapesApp\ShapesApp\obj\Debug\ShapesApp.pdb
+C:\Users\User\documents\visual studio 2013\Projects\ShapesApp\ShapesApp\obj\Debug\ShapesApp.csprojResolveAssemblyReference.cache
+E:\my work\My Git dir\GraphicEditor\ShapesApp\bin\Debug\ShapesApp.exe.config
+E:\my work\My Git dir\GraphicEditor\ShapesApp\obj\Debug\ShapesApp.exe
+E:\my work\My Git dir\GraphicEditor\ShapesApp\obj\Debug\ShapesApp.pdb
+E:\my work\My Git dir\GraphicEditor\ShapesApp\bin\Debug\ShapesApp.exe
+E:\my work\My Git dir\GraphicEditor\ShapesApp\bin\Debug\ShapesApp.pdb
+E:\my work\My Git dir\GraphicEditor\ShapesApp\obj\Debug\ShapesApp.csprojResolveAssemblyReference.cache
+E:\my work\My Git dir\GraphicEditor\ShapesApp\obj\Debug\ShapesApp.ShapesForm.resources
+E:\my work\My Git dir\GraphicEditor\ShapesApp\obj\Debug\ShapesApp.Properties.Resources.resources
+E:\my work\My Git dir\GraphicEditor\ShapesApp\obj\Debug\ShapesApp.csproj.GenerateResource.Cache
