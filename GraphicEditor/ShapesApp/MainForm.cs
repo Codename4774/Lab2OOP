@@ -48,12 +48,14 @@ namespace ShapesApp
         {
             TempCoords.Clear();
             drawer = factory.getDrawerSegment();
+            LabelTypeShape.Text = "Segment";
         }
 
         private void ButtonRect_Click(object sender, EventArgs e)
         {
             TempCoords.Clear();
             drawer = factory.getDrawerRect();
+            LabelTypeShape.Text = "Rectangle";
         }
 
         private void AnT_MouseClick(object sender, MouseEventArgs e)
@@ -79,36 +81,54 @@ namespace ShapesApp
         {
             TempCoords.Clear();
             drawer = factory.getDrawerPol();
+            LabelTypeShape.Text = "Polygon";
         }
 
         private void ButtonJoggedLine_Click(object sender, EventArgs e)
         {
             TempCoords.Clear();
             drawer = factory.getDrawerJoggedLine();
+            LabelTypeShape.Text = "Jogged line";
         }
 
         private void ButtonSquare_Click(object sender, EventArgs e)
         {
             TempCoords.Clear();
             drawer = factory.getDrawerSquare();
+            LabelTypeShape.Text = "Square";
         }
 
         private void ButtonTriangle_Click(object sender, EventArgs e)
         {
             TempCoords.Clear();
             drawer = factory.getDrawerTriangle();
+            LabelTypeShape.Text = "Triangle";
         }
 
         private void ButtonClircle_Click(object sender, EventArgs e)
         {
             TempCoords.Clear();
             drawer = factory.getDrawerCirlce();
+            LabelTypeShape.Text = "Circle";
         }
 
         private void ButtonEllipse_Click(object sender, EventArgs e)
         {
             TempCoords.Clear();
             drawer = factory.getDrawerEllipse();
+            LabelTypeShape.Text = "Ellipse";
+        }
+
+        private void AnT_KeyPress(object sender, KeyPressEventArgs e)
+        {
+        }
+
+        private void AnT_KeyDown(object sender, KeyEventArgs e)
+        {
+            if (e.KeyCode == Keys.Back)
+            {
+                TempCoords.Clear();
+            }
         }
     }
 }

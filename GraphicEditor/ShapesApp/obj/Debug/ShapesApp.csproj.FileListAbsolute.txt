@@ -16,3 +16,12 @@ E:\my work\My Git dir\GraphicEditor\ShapesApp\obj\Debug\ShapesApp.csprojResolveA
 E:\my work\My Git dir\GraphicEditor\ShapesApp\obj\Debug\ShapesApp.ShapesForm.resources
 E:\my work\My Git dir\GraphicEditor\ShapesApp\obj\Debug\ShapesApp.Properties.Resources.resources
 E:\my work\My Git dir\GraphicEditor\ShapesApp\obj\Debug\ShapesApp.csproj.GenerateResource.Cache
+E:\my work\My Git dir\Lab2OOP\GraphicEditor\ShapesApp\bin\Debug\ShapesApp.exe.config
+E:\my work\My Git dir\Lab2OOP\GraphicEditor\ShapesApp\obj\Debug\ShapesApp.exe
+E:\my work\My Git dir\Lab2OOP\GraphicEditor\ShapesApp\obj\Debug\ShapesApp.pdb
+E:\my work\My Git dir\Lab2OOP\GraphicEditor\ShapesApp\bin\Debug\ShapesApp.exe
+E:\my work\My Git dir\Lab2OOP\GraphicEditor\ShapesApp\bin\Debug\ShapesApp.pdb
+E:\my work\My Git dir\Lab2OOP\GraphicEditor\ShapesApp\obj\Debug\ShapesApp.csprojResolveAssemblyReference.cache
+E:\my work\My Git dir\Lab2OOP\GraphicEditor\ShapesApp\obj\Debug\ShapesApp.ShapesForm.resources
+E:\my work\My Git dir\Lab2OOP\GraphicEditor\ShapesApp\obj\Debug\ShapesApp.Properties.Resources.resources
+E:\my work\My Git dir\Lab2OOP\GraphicEditor\ShapesApp\obj\Debug\ShapesApp.csproj.GenerateResource.Cache

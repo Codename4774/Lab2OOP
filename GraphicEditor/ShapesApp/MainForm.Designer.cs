@@ -38,12 +38,14 @@
             this.ButtonJoggedLine = new System.Windows.Forms.Button();
             this.ButtonSegment = new System.Windows.Forms.Button();
             this.AnT = new Tao.Platform.Windows.SimpleOpenGlControl();
+            this.LabelTypeShape = new System.Windows.Forms.Label();
             this.PanelControl.SuspendLayout();
             this.SuspendLayout();
             // 
             // PanelControl
             // 
             this.PanelControl.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.PanelControl.Controls.Add(this.LabelTypeShape);
             this.PanelControl.Controls.Add(this.ButtonEllipse);
             this.PanelControl.Controls.Add(this.ButtonClircle);
             this.PanelControl.Controls.Add(this.ButtonTriangle);
@@ -155,7 +157,18 @@
             this.AnT.Size = new System.Drawing.Size(771, 396);
             this.AnT.StencilBits = ((byte)(0));
             this.AnT.TabIndex = 2;
+            this.AnT.KeyDown += new System.Windows.Forms.KeyEventHandler(this.AnT_KeyDown);
+            this.AnT.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.AnT_KeyPress);
             this.AnT.MouseClick += new System.Windows.Forms.MouseEventHandler(this.AnT_MouseClick);
+            // 
+            // LabelTypeShape
+            // 
+            this.LabelTypeShape.AutoSize = true;
+            this.LabelTypeShape.Location = new System.Drawing.Point(5, 254);
+            this.LabelTypeShape.Name = "LabelTypeShape";
+            this.LabelTypeShape.Size = new System.Drawing.Size(33, 13);
+            this.LabelTypeShape.TabIndex = 8;
+            this.LabelTypeShape.Text = "None";
             // 
             // ShapesForm
             // 
@@ -170,6 +183,7 @@
             this.Text = "Shapes";
             this.Load += new System.EventHandler(this.MainForm_Load);
             this.PanelControl.ResumeLayout(false);
+            this.PanelControl.PerformLayout();
             this.ResumeLayout(false);
 
         }
@@ -186,6 +200,7 @@
         private System.Windows.Forms.Button ButtonTriangle;
         private System.Windows.Forms.Button ButtonClircle;
         private System.Windows.Forms.Button ButtonEllipse;
+        private System.Windows.Forms.Label LabelTypeShape;
 
 
     }
