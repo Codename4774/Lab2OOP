@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ShapesApp.Drawer" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAQAJAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DrawerClasses\Drawer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShapesApp.DrawerClasses.Ellipsoids.CirlceDrawer" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQApAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>DrawerClasses\Ellipsoids\CircleDrawer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShapesApp.DrawerClasses.Ellipsoids.EllipseDrawer" Collapsed="true">
+    <Position X="2.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAJAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>DrawerClasses\Ellipsoids\EllipseDrawer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShapesApp.DrawerClasses.Lines.JoggedLineDrawer" Collapsed="true">
+    <Position X="4" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAJAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>DrawerClasses\Lines\JoggedLineDrawer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShapesApp.DrawerClasses.Lines.SegmentDrawer" Collapsed="true">
+    <Position X="5.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAJAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>DrawerClasses\Lines\SegmentDrawer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShapesApp.DrawerClasses.Polygons.PolDrawer" Collapsed="true">
+    <Position X="7.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAJAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>DrawerClasses\Polygons\PolygonDrawer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShapesApp.DrawerClasses.Polygons.RectDrawer" Collapsed="true">
+    <Position X="9.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAJAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>DrawerClasses\Polygons\RectDrawer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShapesApp.DrawerClasses.Polygons.SquareDrawer" Collapsed="true">
+    <Position X="3" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAJAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>DrawerClasses\Polygons\SquareDrawer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShapesApp.DrawerClasses.Polygons.TriangleDrawer" Collapsed="true">
+    <Position X="1" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAJAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>DrawerClasses\Polygons\TriangleDrawer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

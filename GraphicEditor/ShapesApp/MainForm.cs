@@ -30,7 +30,6 @@ namespace ShapesApp
 
         private void MainForm_Load(object sender, EventArgs e)
         {
-            
             Glut.glutInit();
             Glut.glutInitDisplayMode(Glut.GLUT_RGB | Glut.GLUT_DOUBLE);
             Gl.glClearColor(255, 255, 255, 1);
